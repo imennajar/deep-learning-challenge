@@ -91,7 +91,6 @@ While there might be other potential combinations that could yield improved resu
 
 <img src='initial.png' style ='width:700px;height:300px'/> 
 
-The initial accuracy achieved was 0.7259.
 
 ***First approach: Change the settings of the model:***
 
